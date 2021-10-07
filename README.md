@@ -7,8 +7,8 @@ Simple two player dice game. Once the user clicks on Roll the Dice button, the d
 
 Demo: https://dice.ddaniel.ro/
 
-![dice-game](./images/one.png)
-![dice-game](./images/two.png)
+![dice-game](./images/dice.png)
+
 
 
 ## Built With
